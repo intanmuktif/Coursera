@@ -1,2 +1,2 @@
 # Coursera
-Week3-Intrduction to Github
+Week3-Introduction to Github
